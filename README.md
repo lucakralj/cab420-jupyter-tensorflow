@@ -17,7 +17,6 @@ The Docker container can be found here on [Dockerhub](https://hub.docker.com/r/l
 ## Build Instructions
 ```
   # clone the repository 
-
   git clone https://github.com/lucakralj/cab420-jupyter-tensorflow
 
   # change directory into the cab420-jupyter-tensorflow directory
